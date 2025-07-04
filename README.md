@@ -39,7 +39,7 @@ This project presents an interactive Excel dashboard built to analyze Amazon pro
 ##  Repository Structure
 ![Data Set and analysis](https://github.com/Oluwatosinoguntuga/DSA-PROJECT-2-AMAZON-PRODUCTS-REVIEW-ANALYSIS./blob/main/AMAZON%20CLEANED%20DATA%202.xlsx)
 
-[Dashboard Preview](dashboard-preview.png)
+[Dashboard Preview](https://github.com/Oluwatosinoguntuga/DSA-PROJECT-2-AMAZON-PRODUCTS-REVIEW-ANALYSIS./blob/main/Amazon%20Dashboard.png)
 
 
 
