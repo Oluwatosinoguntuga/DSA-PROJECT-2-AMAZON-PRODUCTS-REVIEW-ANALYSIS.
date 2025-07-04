@@ -37,7 +37,9 @@ This project presents an interactive Excel dashboard built to analyze Amazon pro
 ---
 
 ## 📂 Repository Structure
-![Dashboard Preview](dashboard-preview.png)
+![Data Set and analysis](dashboard-preview.png)
+[Dashboard Preview](dashboard-preview.png)
+
 
 
 
